@@ -8,9 +8,14 @@ ENet Caster 是 PNTMatrix 的 Windows NTRIP Caster，用于将基站 GNSS 差分
 
 ## Downloads / 下载
 
-Open **Releases** and select **v0.3.6**. Choose the package matching your Windows architecture. Each architecture has a Setup installer and a portable ZIP. The bilingual manuals and test reports are available in the release's documentation ZIP.
+Choose the ENet Caster v0.3.6 installer for your Windows architecture. / 请按 Windows 架构下载 ENet Caster v0.3.6 安装包。
 
-进入仓库的 **Releases**，打开 **v0.3.6**。按 Windows 架构选择安装包或便携 ZIP。该版本的文档 ZIP 提供中英文使用手册、测试报告及性能说明。
+| Windows architecture / 架构 | Installer / 安装包 |
+| --- | --- |
+| x64 (64-bit Intel / AMD) | [Download x64 installer / 下载 x64 安装包](https://github.com/aurora970624/ENetCaster/releases/download/ntripcaster/ENetCaster-0.3.6-win-x64-Setup.exe) |
+| x86 (32-bit) | [Download x86 installer / 下载 x86 安装包](https://github.com/aurora970624/ENetCaster/releases/download/ntripcaster/ENetCaster-0.3.6-win-x86-Setup.exe) |
+
+[Release notes and assets / 发布说明与附件](https://github.com/aurora970624/ENetCaster/releases/tag/ntripcaster)
 
 ## Features / 功能
 
